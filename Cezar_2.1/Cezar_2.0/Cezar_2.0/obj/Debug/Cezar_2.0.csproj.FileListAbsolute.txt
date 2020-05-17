@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\bin\Debug\Cezar_2.0.exe.config
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\bin\Debug\Cezar_2.0.exe
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\bin\Debug\Cezar_2.0.pdb
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2.0.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2._0.Form1.resources
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2._0.Properties.Resources.resources
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2.0.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2.0.exe
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2.0.pdb
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2._0.Form2.resources
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2._0.Form3.resources
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2._0.Form4.resources
+C:\Users\User\Desktop\Cezar_2.0\Cezar_2.0\obj\Debug\Cezar_2._0.Form5.resources
